@@ -4,7 +4,10 @@
 - 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
 
 Languages and Tools:
+
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
 
 ![xliel's github stats](https://github-readme-stats.vercel.app/api?username=xliel&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xliel&layout=compact)]
