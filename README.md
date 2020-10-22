@@ -1,5 +1,6 @@
 ### 👋 Hello, Welcome to my profile 👋
 
+- 😄 I'm 16 years old
 - 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
 
 Languages and Tools:
