@@ -1,6 +1,6 @@
 ### 👋 Hello, Welcome to my profile 👋
 
-- 🤖 My discord bot [!click here](https://top.gg/bot/599408580042424321) 
+- 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
 
 Languages and Tools:
 
