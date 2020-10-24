@@ -1,7 +1,7 @@
 ### 👋 Hello, Welcome to my profile 👋
 
 - 😄 I'm 16 years old
-- 📨 You can reach me though Discord: xliel#6666
+- 📨 My discord: xliel#6666
 - 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
 
 Languages and Tools:
