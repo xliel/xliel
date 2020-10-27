@@ -1,5 +1,9 @@
-### 👋 Hello, Welcome to my profile 👋
+### 👋 Hi there, Welcome to my profile 👋
+<a href="https://discord.com/users/417398665670295572" rel="nofollow">
+    <img align="left" alt="Xliel's Discord" width="22px" src="https://camo.githubusercontent.com/a0749e18786e64dcf16e7fc424fb029de5cebadc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f646973636f72642e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" style="max-width:100%;">
+  </a>
 
+Information:
 - 😄 I'm 16 years old
 - 📨 My discord: xliel#6666
 - 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
