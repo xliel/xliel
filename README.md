@@ -17,4 +17,4 @@ Languages and Tools:
 
 ![xliel's github stats](https://github-readme-stats.vercel.app/api?username=xliel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xliel&layout=compact&theme=tokyonight)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=github-readme-stats&theme=tokyonight)](https://github.com/xliel/github-readme-stats)
