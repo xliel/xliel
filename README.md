@@ -18,3 +18,6 @@ Languages and Tools:
 ![xliel's github stats](https://github-readme-stats.vercel.app/api?username=xliel&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xliel&layout=compact&theme=tokyonight)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=Discord-Fivem-Api&theme=tokyonight)](https://github.com/xliel/Discord-Fivem-Api)
+<a href="https://github.com/xliel/readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=github-readme-stats" />
+</a>
