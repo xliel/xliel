@@ -16,5 +16,6 @@ Languages and Tools:
 </code>
 
 ![xliel's github stats](https://github-readme-stats.vercel.app/api?username=xliel&show_icons=true&theme=tokyonight)
+![xliel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xliel&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xliel&layout=compact&theme=tokyonight)
 [![Discord-Fivem-Api](https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=Discord-Fivem-Api&show_owner=true&theme=tokyonight)](https://github.com/xliel/Discord-Fivem-Api)
