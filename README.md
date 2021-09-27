@@ -2,11 +2,11 @@
 
 Information:
 
-- 😄 I'm 16 years old
+- 😄 I'm 17 years old
 - 📨 My discord: `xliel#6666`
 - 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
 
-Languages and Tools:
+**Languages and Tools:**
 
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
 </code>
@@ -20,3 +20,4 @@ Languages and Tools:
 [![Discord-Fivem-Api](https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=Discord-Fivem-Api&show_owner=true&theme=tokyonight)](https://github.com/xliel/Discord-Fivem-Api)
 [![Example-Bot](https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=example-bot&show_owner=true&theme=tokyonight)](https://github.com/xliel/Example-Bot)
 
+**Discord Servers:**
