@@ -1,23 +1,46 @@
 ## 👋 Hi there, Welcome to my profile 👋
 
-Information:
+<h3 align="left">Information:</h3>
 
 - 😄 I'm 17 years old
-- 📨 My discord: `xliel#6666`
+- 📨 My discord: [xliel#7767](https://discord.com/users/417398665670295572) 
 - 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
+- 📚 I’m currently learning **ReactJS**
 
-**Languages and Tools:**
+<h3 align="left">Languages and Tools:</h3>
 
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;"></a>
-</code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;"></a>
-</code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a>
-</code>
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            alt="mongodb" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+            alt="mysql" width="40" height="40" />
+    </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
+            alt="redis" width="40" height="40" />
+    </a>
+    <a href="https://postgresql.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+            alt="postgresql" width="40" height="40" />
+    </a>
+</p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/417398665670295572?hideStatus=true)](https://discord.com/users/417398665670295572)
 
 ![xliel's github stats](https://github-readme-stats.vercel.app/api?username=xliel&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xliel&layout=compact&theme=tokyonight)
 [![Discord-Fivem-Api](https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=Discord-Fivem-Api&show_owner=true&theme=tokyonight)](https://github.com/xliel/Discord-Fivem-Api)
-[![Example-Bot](https://github-readme-stats.vercel.app/api/pin/?username=xliel&repo=example-bot&show_owner=true&theme=tokyonight)](https://github.com/xliel/Example-Bot)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xliel&layout=compact&theme=tokyonight)
+
