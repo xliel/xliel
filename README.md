@@ -2,7 +2,7 @@
 
 <h3 align="left">Information:</h3>
 
-- 😄 I'm 17 years old
+- 😄 I'm 18 years old
 - 📨 My discord: [xliel#7767](https://discord.com/users/417398665670295572) 
 - 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
 - 📚 I’m currently learning **ReactJS**
