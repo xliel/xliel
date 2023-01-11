@@ -5,7 +5,6 @@
 - 😄 I'm 18 years old
 - 📨 My discord: [xliel#7767](https://discord.com/users/417398665670295572) 
 - 🤖 My discord bot [click here](https://top.gg/bot/599408580042424321) 
-- 📚 I’m currently learning **ReactJS**
 
 <h3 align="left">Languages and Tools:</h3>
 
