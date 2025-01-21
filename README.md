@@ -2,7 +2,7 @@
 
 ### Information
 
-- 😄 I'm 19 years old
+- 😄 I'm 20 years old
 - 📨 You can reach me on Discord: [xliel#7767](https://discord.com/users/417398665670295572)
 - 🤖 Check out my Discord bot: [click here](https://top.gg/bot/599408580042424321)
 
